@@ -5,6 +5,8 @@ for i in 1..100 do
       print "Fizz\n"
     elsif i % 5 == 0
       print "Buzz\n"
+    elsif i % 7 == 0
+      print "Git\n"
     else 
       puts "#{i}\n"
     end
