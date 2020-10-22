@@ -6,7 +6,7 @@ for i in 1..100 do
     elsif i % 5 == 0
       print "Buzz\n"
     else 
-      puts "{#a}\n"
+      puts "{#i}\n"
     end
 end
 
