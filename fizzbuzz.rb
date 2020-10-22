@@ -8,6 +8,5 @@ for i in 1..100 do
     else 
       puts "{#a}\n"
     end
-
 end
 
